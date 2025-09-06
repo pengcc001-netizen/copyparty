@@ -1,4 +1,4 @@
-<img src="https://github.com/9001/copyparty/raw/hovudstraum/docs/logo.svg" width="250" align="right"/>
+
 
 ### 💾🎉 copyparty
 
